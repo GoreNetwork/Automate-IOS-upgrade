@@ -26,4 +26,4 @@ Then write memory
 
 Next check the boot statment to make sure the boot statment is in the startup config
 
-
+PLEASE NOTE THIS DOESN'T DO ANY RESTARTS, THAT NEEDS TO BE DONE MANUALLY.
